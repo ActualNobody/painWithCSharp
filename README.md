@@ -1,4 +1,7 @@
 # painWithCSharp
 I blame Repl
 
-workingFormat: the structure of .cs files to not cause a massive banghang honkaloola
+How to run a C# file on Repl.it because of the replit file:
+
+
+BeginnerBasics: the basic stuff like printing and variables
