@@ -1,4 +1,4 @@
-/*
+///*
 using System;
 
 class MainStrt{
@@ -6,4 +6,4 @@ class MainStrt{
     Console.WriteLine("Does this?");
   }
 }
-*/
+//*/
