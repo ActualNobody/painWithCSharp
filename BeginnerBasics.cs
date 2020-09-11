@@ -1,11 +1,14 @@
-using System;
+// using System;
 ///*
-class Beginner{
-  public void testyThing(string thingy)){
-    Console.WriteLine($"Well, {thingy}?\nIt seems there are {thingy.Length} characters; well that's {thingy.Remove(1)}.\nNow get A LOAD OF THIS!\n{ReverseMe(thingy)}");
-  }
-  private string ReverseMe(string s){
+namespace Egregious{
+  public class Beginner{
+    public void testyThing(string thingy){
+      Console.WriteLine($"Well, {thingy}?\nIt seems there are {thingy.Length} characters; well that's {thingy.Remove(1)}.\nNow get A LOAD OF THIS!\n{/*ReverseMe(thingy)*/thingy}");
+    }
+    private string ReverseMe(string s){
 
+      return "";
+    }
   }
 }
 //*/
